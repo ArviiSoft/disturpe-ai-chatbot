@@ -1,4 +1,4 @@
-# Disturpe AI ChatBot
+# Disturpe AI Chatbot
 
 Disturpe AI Chatbot is a self-hosted Discord conversation bot with provider-neutral AI configuration, local SQLite memory, configurable daily quotas, optional Discord logging, and privacy-focused defaults.
 
